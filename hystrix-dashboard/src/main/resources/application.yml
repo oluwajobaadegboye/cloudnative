@@ -8,4 +8,5 @@ turbine:
   appConfig: SAMPLE-HYSTRIX-AGGREGATE
 
 logging:
-level: INFO
+  level: DEBUG
+  com.netflix.hystrix: DEBUG
